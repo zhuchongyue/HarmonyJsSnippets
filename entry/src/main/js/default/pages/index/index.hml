@@ -1,0 +1,16 @@
+<div class="container">
+    <tabs>
+        <tab-bar class="tab-bar" mode="fixed">
+            <text>组件</text>
+            <text>接口</text>
+        </tab-bar>
+        <tab-content>
+            <div class="item-content" >
+                <text class="item-title">First screen</text>
+            </div>
+            <div class="item-content" >
+                <text class="item-title">Second screen</text>
+            </div>
+        </tab-content>
+    </tabs>
+</div>
